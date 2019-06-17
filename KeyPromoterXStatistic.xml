@@ -17,6 +17,22 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Hide All Windows">
+        <Item>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F12'</ShortCut>
+          <Description>Hide All Windows</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Project">
+        <Item>
+          <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
+          <ShortCut>'Alt+1'</ShortCut>
+          <Description>Project</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Settings...">
         <Item>
           <IdeaActionID>ShowSettings</IdeaActionID>
@@ -33,12 +49,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="TODO">
+        <Item>
+          <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
+          <ShortCut>'Alt+6'</ShortCut>
+          <Description>TODO</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Terminal">
         <Item>
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
     </option>
