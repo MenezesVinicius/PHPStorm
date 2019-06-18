@@ -6,7 +6,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -22,6 +22,14 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Push...">
+        <Item>
+          <IdeaActionID>Vcs.Push</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+K'</ShortCut>
+          <Description>Push...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
