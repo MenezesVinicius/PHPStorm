@@ -6,7 +6,12 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="MenezesVinicius" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://vcmenezes@bitbucket.org/vcmenezes/api-licenca-solidos.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="C:\Users\Vinicius\Documents\Desenvolvimento" />
   </component>
 </application>
